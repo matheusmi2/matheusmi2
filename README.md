@@ -1,4 +1,4 @@
-# Olá, sou o Matheus 👋
+# Matheus Miranda
 
 Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FGV. 
 Tenho uma base sólida nos fundamentos da computação, incluindo: Redes de Computadores, Arquitetura de Computadores e Estruturas de Dados e Algoritmos
