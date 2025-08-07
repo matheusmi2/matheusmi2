@@ -1,6 +1,6 @@
 # Oi! Me chamo Matheus Miranda.
 
-Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FGV. 
+Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
 Tenho uma base sólida nos fundamentos da computação, incluindo: Redes de Computadores, Arquitetura de Computadores e Estruturas de Dados e Algoritmos
 Também possuo conhecimentos em programação com Python, JavaScript e C, aplicando essas linguagens em projetos práticos e acadêmicos.
 Atualmente, estou aprofundando meus estudos na área de dados, com foco em análise de dados.
