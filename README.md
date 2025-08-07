@@ -1,4 +1,10 @@
-# Hi, i'm Matheus 👋
+# Olá, sou o Matheus 👋
+
+Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FGV. 
+Tenho uma base sólida nos fundamentos da computação, incluindo: Redes de Computadores, Arquitetura de Computadores e Estruturas de Dados e Algoritmos
+Também possuo conhecimentos em programação com Python, JavaScript e C, aplicando essas linguagens em projetos práticos e acadêmicos.
+Atualmente, estou aprofundando meus estudos na área de dados, com foco em análise de dados.
+Este espaço foi criado para eu compartilhar parte da minha jornada de aprendizado e desenvolvimento.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusmi02) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@matheusmi2) 
