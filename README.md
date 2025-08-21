@@ -103,7 +103,7 @@ Atualmente, estou aprofundando meus estudos na área de dados, com foco em anál
   <img
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusmi2&theme=omni&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusmi2&theme=omni&include_all_commits=true&count_private=true" 
   />
     
 </p>
