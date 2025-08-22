@@ -100,5 +100,3 @@ Atualmente, estou aprofundando meus estudos na área de dados, com foco em anál
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmi2&show_icons=true&theme=omni&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmi2)](https://github.com/anuraghazra/github-readme-stats)
