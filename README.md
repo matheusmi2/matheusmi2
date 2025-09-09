@@ -22,13 +22,6 @@ Sou uma pessoa proativa, curiosa, adaptável e organizada. Adoro desafios e am
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23176D4C" 
-/>
-<img 
     alt="C" 
     title="C"
     width="30px" 
@@ -48,13 +41,6 @@ Sou uma pessoa proativa, curiosa, adaptável e organizada. Adoro desafios e am
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     alt="MySQL" 
@@ -91,12 +77,6 @@ Sou uma pessoa proativa, curiosa, adaptável e organizada. Adoro desafios e am
     title="Pandas" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" 
-/>
-<img 
-    alt="Matplotlib" 
-    title="Matplotlib" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" 
 />
 
 ## 📊 GitHub Stats
