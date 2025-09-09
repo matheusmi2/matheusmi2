@@ -4,9 +4,10 @@
 
 Olá, me chamo Matheus Miranda. Sou uma pessoa guiada pela curiosidade, apaixonada por tecnologia e sempre disposta a aprender coisas novas.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FGV.
-Tenho uma base sólida nos fundamentos da computação, incluindo: Redes de Computadores, Arquitetura de Computadores e Estruturas de Dados e Algoritmos
 Também possuo conhecimentos em programação com Python, JavaScript e C, aplicando essas linguagens em projetos práticos e acadêmicos.
-Atualmente, estou aprofundando meus estudos na área de dados, com foco em análise de dados.
+Tenho direcionado minha formação para a área de  análise de dados. Utilizo Python (Pandas, NumPy) para manipulação de dados, além de SQL e Excel, em processos de ETL e EDA, sempre buscando aplicar esses conhecimentos em projetos práticos e relevantes.
+Além das competências técnicas, possuo inglês avançado, o que me permite colaborar com equipes globais e acompanhar as principais tendências do setor.
+Sou uma pessoa proativa, curiosa, adaptável e organizada. Adoro desafios e ambientes que me estimulam a dar o meu melhor, e estou motivado a contribuir com uma equipe dinâmica e inovadora.
 
 ---
 
