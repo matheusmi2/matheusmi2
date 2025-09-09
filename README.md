@@ -7,6 +7,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FGV.
 Também possuo conhecimentos em programação com Python, JavaScript e C, aplicando essas linguagens em projetos práticos e acadêmicos.
 Tenho direcionado minha formação para a área de  análise de dados. Utilizo Python (Pandas, NumPy) para manipulação de dados, além de SQL e Excel, em processos de ETL e EDA, sempre buscando aplicar esses conhecimentos em projetos práticos e relevantes.
 Além das competências técnicas, possuo inglês avançado, o que me permite colaborar com equipes globais e acompanhar as principais tendências do setor.
+
 Sou uma pessoa proativa, curiosa, adaptável e organizada. Adoro desafios e ambientes que me estimulam a dar o meu melhor, e estou motivado a contribuir com uma equipe dinâmica e inovadora.
 
 ---
