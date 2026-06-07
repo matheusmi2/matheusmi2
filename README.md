@@ -1,12 +1,6 @@
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F3ED&width=435&lines=Ol%C3%A1%2C+sou+o+Matheus!" alt="Typing SVG" /></a>
-</div>
-
-<div align='center'>
-<p>Olá, sou um jovem apaixonado por tecnologia e um analista de dados em formação.</p>
- 
-</div>
-
+ <h2>Olá, me chamo Matheus! ☕</h2> 
+ <p>Sou um jovem apaixonado por tecnologia e um analista de dados em formação.</p>
 <div align="center">
  
 ## ⚙️Tech Stack
