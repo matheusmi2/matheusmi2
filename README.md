@@ -6,7 +6,7 @@
  
 ## ⚙️Tech Stack
 
-| Programação | Ferramentas | Dados e BI
+| Programação | Ferramentas | Dados e BI |
 | :---: | :---: | :---: |  :---: |
 | [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=excel,powerbi)](https://skillicons.dev)
 
