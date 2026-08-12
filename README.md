@@ -5,10 +5,12 @@
 <p>Este repositório reúne desde projetos simples voltados para a prática de programação até projetos pessoais e profissionais desenvolvidos para resolver problemas do mundo real.</p>
 <div align="center">
  
-## ⚙️Tech Stack
+## Tech Stack ⚙️ 
 
-| Programming | Tools | Data
-| :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,react,html,css)](https://skillicons.dev) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel)
+| Categories | Tecnologies |
+| :--- | :--- |
+| **Programming** | [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,react,html,css)](https://skillicons.dev) |
+| **Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter) |
+| **Data** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,excel) |
 
 </div>
