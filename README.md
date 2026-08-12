@@ -1,12 +1,14 @@
 <div align='center'>
- <h2>Olá, me chamo Matheus! ☕</h2> 
- <p>Sou um jovem apaixonado por tecnologia e um analista de dados em formação.</p>
+ <strong>Olá, me chamo Matheus! ☕</strong> 
+ <p>Estudante de Análise e Desenvolvimento de Sistemas pela Fundação Getulio Vargas (FGV), com formação voltada para desenvolvimento de software,  programação, banco de dados e tecnologias web. Possuo conhecimentos em Python, JavaScript, TypeScript, HTML, CSS, FastAPI, SQL e PostgreSQL, além de versionamento com Git e GitHub. 
+  <p>Tenho interesse em atuar com desenvolvimento de software, engenharia de software e TI, aplicando boas práticas de organização de código, lógica de programação e resolução de problemas. Também desenvolvi projetos de análise de dados com Python, SQL e Excel, fortalecendo minha capacidade analítica e interpretação de informações para apoiar decisões.</p>
+<p>Este repositório reúne desde projetos simples voltados para a prática de programação até projetos pessoais e profissionais desenvolvidos para resolver problemas do mundo real.</p>
 <div align="center">
  
 ## ⚙️Tech Stack
 
-| Linguagens | Ferramentas | Dados e BI
+| Programming | Tools | Data
 | :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript)](https://skillicons.dev) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel)
+| [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,react,html,css)](https://skillicons.dev) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel)
 
 </div>
