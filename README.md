@@ -9,7 +9,7 @@
 
 | Categories | Tecnologies |
 | :--- | :--- |
-| **Programming** | [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,react,html,css)](https://skillicons.dev) |
+| **Programming** | [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,javascript,html,css)](https://skillicons.dev) |
 | **Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,jupyter) |
 | **Data** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,excel) |
 
