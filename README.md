@@ -9,7 +9,9 @@
 
 | Categories | Tecnologies |
 | :--- | :--- |
-| **Programming** | [![My Skills](https://skillicons.dev/icons?i=java,postgresql,javascript,html,css)](https://skillicons.dev) |
-| **Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,claude,chatgpt,antigravity) |
+| **Programming** | [![My Skills](https://skillicons.dev/icons?i=java,go,javascript)](https://skillicons.dev) </br> [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) |
+| **Frameworks** | [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev) |
+| **Database** | [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://skillicons.dev) |
+| **Tools** | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,claude) </br> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,antigravity) |
 
 </div>
